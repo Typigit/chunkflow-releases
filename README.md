@@ -1,6 +1,6 @@
 # ChunkFlow 下载
 
-本仓库提供 ChunkFlow 安装包。
+本仓库提供 ChunkFlow 安装包，源代码保存在独立的私有仓库中。
 
 [下载最新版本](https://github.com/Typigit/chunkflow-releases/releases)
 
